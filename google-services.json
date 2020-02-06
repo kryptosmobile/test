@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "171282951117",
+    "firebase_url": "https://uhd-mobile.firebaseio.com",
+    "project_id": "uhd-mobile",
+    "storage_bucket": "uhd-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171282951117:android:e0c54c8795568896a37284",
+        "android_client_info": {
+          "package_name": "com.kryptosmobile.holyoke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171282951117-3jcr645d6u8e1t16k2n4vcqneb0qemu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Fbt-w8n26dC8N4PzMyl7zGo615HhaGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171282951117-3jcr645d6u8e1t16k2n4vcqneb0qemu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171282951117:android:321033cdaca13460",
+        "android_client_info": {
+          "package_name": "com.unifyed.UHD"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171282951117-3jcr645d6u8e1t16k2n4vcqneb0qemu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Fbt-w8n26dC8N4PzMyl7zGo615HhaGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171282951117-3jcr645d6u8e1t16k2n4vcqneb0qemu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171282951117:android:cdc587d2e54438dfa37284",
+        "android_client_info": {
+          "package_name": "com.unifyed.cochiseunifyed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171282951117-3jcr645d6u8e1t16k2n4vcqneb0qemu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Fbt-w8n26dC8N4PzMyl7zGo615HhaGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171282951117-3jcr645d6u8e1t16k2n4vcqneb0qemu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
