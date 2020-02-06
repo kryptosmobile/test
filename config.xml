@@ -174,7 +174,7 @@
     </edit-config>
     
     <gap:plugin name="phonegap-plugin-push" source="npm" spec="2.1.2">
-        <param name="SENDER_ID" value="81368537423" />
+        <param name="SENDER_ID" value="171282951117" />
     </gap:plugin>
 
 	<platform name="android">
